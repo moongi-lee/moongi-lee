@@ -1,6 +1,6 @@
-![Git로고](/profile/image/20200302072758.641945.gif)
+![아지르 사진](/profile/image/20200302072758.641945.gif)
 
-Hi i'm moongi a beginner developer.  
+Hi i'm moongi a beginner developer. 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moongi-lee&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
