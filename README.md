@@ -1,4 +1,4 @@
-![아지르 사진](https://opgg-com-image.akamaized.net/attach/images/20200302072758.641945.gif)
+![아지르 사진](image/아지르.gif)
 
 Hi i'm moongi a beginner developer. 
 
